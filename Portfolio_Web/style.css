@@ -1,0 +1,18 @@
+body {
+    background-color: #191c1d;
+    font-family: sans-serif;
+}
+
+h3 {
+    color: #b3aca2;
+}
+button.touch {
+    background-color:rgb(75, 10, 161);
+
+}
+button.project {
+    color: #b3aca2 ;
+    background-color: rgb(22, 25, 27);
+    padding: 10px;
+    display: flex;
+}
